@@ -1,0 +1,4 @@
+Some file with text rows
+
+Row 1
+Row 2
