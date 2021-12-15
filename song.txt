@@ -1,0 +1,4 @@
+New song
+
+Text line first
+Text line second
