@@ -2,3 +2,6 @@ New song
 
 Text line first
 Text line second
+
+Text line third
+Text line fourth
